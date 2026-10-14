@@ -126,7 +126,7 @@ def encrypt_data(data: str) -> str:
 
 ### MacOS
 
-Like on Windows, encryption and decrypion are almost the same:
+Like on Windows, encryption and decryption are almost the same:
 
 <!-- tabs:start -->
 
